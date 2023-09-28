@@ -5,7 +5,7 @@ The FSTI POC grant provides funding support for experimentation, development, an
 In this repository you can find the paper, code and documentation for the POC.
 
 ## Paper
-The paper can be found [here](https://docs.google.com/viewer?url=https://github.com/rocketcapital-ai/ip_preserving_ml_predictions/blob/main/IP-PRESERVING-ML-PREDICTIONS.pdf).
+The paper can be found [here](https://github.com/rocketcapital-ai/ip_preserving_ml_predictions/blob/main/IP-PRESERVING-ML-PREDICTIONS.pdf).
 
 
 # Implementation
