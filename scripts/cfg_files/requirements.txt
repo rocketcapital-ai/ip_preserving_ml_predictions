@@ -1,0 +1,7 @@
+base58
+PyYAML
+requests
+pycryptodome
+pandas
+web3
+eth-brownie

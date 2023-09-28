@@ -1,0 +1,15 @@
+DATA_DIR: 'data'
+DATA_ENCRYPTED: 'data_encrypted'
+RETRIEVED_DIR: 'retrieved'
+RETRIEVED_DECRYPTED: 'retrieved_decrypted'
+PUBLIC_KEY_PATH: 'keys//public_key.pem'
+PRIVATE_KEY_PATH: 'keys//private_key.pem'
+IPFS_API_URL: 'https://api.pinata.cloud'
+IPFS_DEFAULT: 'bafybeifx7yeb55armcsxwwitkymga5xf53dxiarykms3ygqic223w5sk3m#x-ipfs-companion-no-redirect'
+IPFS_GATEWAY: 'https://gateway.pinata.cloud/ipfs'
+NULL_IPFS_CID: "QmNLei78zWmzUdbeRB3CiUfAizWUrbeeZh5K1rhAQKCh51"
+REQUESTS_TIMEOUT: 120
+W3_TIMEOUT: 600
+W3_INTERVAL: 15
+PINATA:
+  JWT: ""
