@@ -1,6 +1,6 @@
 # Introduction
-We are pleased to announce that Rocket Capital Investment has been awarded the Monetary Authority of Singapore’s Financial Sector Technology and Innovation (FSTI) Proof of Concept (POC) grant! 
-The FSTI POC grant provides funding support for experimentation, development, and dissemination of nascent innovative technologies in the financial services sector!
+Rocket Capital Investment has been awarded the Monetary Authority of Singapore’s Financial Sector Technology and Innovation (FSTI) Innovation Acceleration (IA) Grant for the project "Making predictions with external machine learning models preserving intellectual property and usage rights". 
+The FSTI IA grant provided funding support for the experimentation, development, and dissemination of nascent innovative technologies in the financial services sector. 
 
 In this repository you can find the paper, code and documentation for the POC.
 
